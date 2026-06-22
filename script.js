@@ -1,4 +1,4 @@
-// Meridian & Vale — interactions
+// Sterlington & Roe — interactions
 // Lightweight, dependency-free, and respectful of reduced-motion preferences.
 
 (function () {
